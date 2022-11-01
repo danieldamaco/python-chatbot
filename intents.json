@@ -9,7 +9,8 @@
                 "Hey",
                 "Hola",
                 "Hello",
-                "Good day"
+                "Good day",
+                "youyou youwi"
             ],
             "responses": [
                 "Hi there, how can I help?"
@@ -25,10 +26,11 @@
                 "See you later",
                 "Goodbye",
                 "Nice chatting to you, bye",
-                "Till next time"
+                "Till next time",
+                "byw bitch"
             ],
             "responses": [
-                "Bye! Have a nice day"
+                "Bye! Have a nice day bitch"
             ],
             "context": [
                 ""
@@ -44,7 +46,7 @@
                 "Thanks for helping me"
             ],
             "responses": [
-                "Happy to help!"
+                "Happy to help! stupid"
             ],
             "context": [
                 ""
@@ -54,7 +56,7 @@
             "tag": "noanswer",
             "patterns": [],
             "responses": [
-                "Sorry, can't understand you"
+                "Sorry, can't understand you Do´t be stupid"
             ],
             "context": [
                 ""
